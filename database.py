@@ -1,4 +1,4 @@
-#Frontend
+#Frontend of the App
 
 from Tkinter import *
 import tkMessageBox
